@@ -1,0 +1,33 @@
+{
+  "version": 3,
+  "targets": {},
+  "libraries": {},
+  "projectFileDependencyGroups": {},
+  "packageFolders": {
+    "C:\\Users\\pentium\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj",
+      "projectPath": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj",
+      "packagesPath": "C:\\Users\\pentium\\.nuget\\packages\\",
+      "outputPath": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pentium\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se puede leer la información del proyecto de \"ProyectoSoftware2022\": Identificador de marco de trabajo no válido \"\"."
+    }
+  ]
+}

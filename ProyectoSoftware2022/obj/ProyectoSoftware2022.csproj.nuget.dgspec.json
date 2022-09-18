@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj": {}
+  },
+  "projects": {
+    "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj",
+        "projectPath": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj",
+        "packagesPath": "C:\\Users\\pentium\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pentium\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}

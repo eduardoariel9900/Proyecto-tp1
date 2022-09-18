@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bx03RorjBhSPb0Ry20DsZv7tukiIL6dPgtdBrw2d56tVhRdb1sBckBHyjskDITaEn007reiq0MRxgYNcrmM20A==",
+  "success": false,
+  "projectFilePath": "D:\\Universidad 2021\\Proyecto SoftWare\\ProyectoTP2022\\ProyectoSoftware2022\\ProyectoSoftware2022.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se puede leer la información del proyecto de \"ProyectoSoftware2022\": Identificador de marco de trabajo no válido \"\"."
+    }
+  ]
+}
